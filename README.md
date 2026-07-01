@@ -81,21 +81,6 @@ Airline Reservation System
 
 ---
 
-## 💾 File Handling
-
-The project uses file handling to store and retrieve data.
-
-Example files:
-
-```
-flights.txt
-bookings.txt
-```
-
-This ensures that flight and booking information is preserved even after the program is closed.
-
----
-
 ## 🖥 Main Menu
 
 ```
