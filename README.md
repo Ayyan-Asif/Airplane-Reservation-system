@@ -129,32 +129,6 @@ This project demonstrates:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Airline-Reservation-System.git
-```
-
-2. Open the project in CodeBlocks, Visual Studio, or VS Code.
-
-3. Compile the program using any C++ compiler.
-
-Example:
-
-```bash
-g++ main.cpp -o AirlineSystem
-```
-
-4. Run the executable.
-
-```bash
-./AirlineSystem
-```
-
----
-
 ## 📖 Learning Objectives
 
 This project was developed to practice:
